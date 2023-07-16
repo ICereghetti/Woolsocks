@@ -1,0 +1,3511 @@
+OrderEvent,clientId,eventTime,eventId,insertionTime,appName,ReminderStateEvent,PaymentReminderEvent
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""e8de847c-bc85-4da2-b4af-7a744ba7ab2e"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""081fef7b-0ac1-48a8-b9d9-f57733519165"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-14 10:08:09.164000 UTC"",
+    ""GiftCardId"": ""40b2623a-cc1f-43f3-8e74-440a0e4d627c"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-14T10:08:18.150600544Z,ac70a5f2-8e04-418b-b847-f750b480984c,2023-07-14 10:08:18.170000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""e8de847c-bc85-4da2-b4af-7a744ba7ab2e"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""081fef7b-0ac1-48a8-b9d9-f57733519165"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-14 10:08:09.164000 UTC"",
+    ""GiftCardId"": ""40b2623a-cc1f-43f3-8e74-440a0e4d627c"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",86bec11e-eec0-41d2-ad26-41348652b10c,2023-07-14T10:09:00.700511749Z,a4fbb96f-7b63-4bba-91ae-7a0ecbefafb5,2023-07-14 10:09:00.727000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d5dcf157-9247-4352-8b7d-b6faef5e7e1e"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""87934720-09d4-4e31-99f3-59fc865050f0"",
+    ""PaymentId"": ""29d0746a-0776-48d2-af7e-288766db9439"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-14 10:37:42.884000 UTC"",
+    ""GiftCardId"": ""e4e148fa-e443-4532-b440-22dd66900631"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",87934720-09d4-4e31-99f3-59fc865050f0,2023-07-14T10:38:01.853759658Z,fa7002c3-7227-4a87-8267-db876609461c,2023-07-14 10:38:01.874000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""a69d07c3-db8d-48c7-bbfa-f8be2ccfa440"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""a9fc2f88-7857-4d58-bb75-4b8a5d4b2952"",
+    ""PaymentId"": """",
+    ""GiftCardTemplateId"": ""bd2de523-8c6f-49fd-8b7d-200b6952758f"",
+    ""GiftCardAmount"": ""1500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": """",
+    ""IssuerType"": """",
+    ""CashbackAmount"": ""0"",
+    ""ProductName"": """",
+    ""OrderedAt"": ""1970-01-01 00:00:00.000000 UTC"",
+    ""GiftCardId"": """",
+    ""CommissionPercentage"": ""0.0"",
+    ""PaymentStatus"": ""NOT_PAID"",
+    ""Source"": ""GAMIFICATION"",
+    ""PaymentTimeType"": """",
+    ""IsGiveaway"": ""false""
+  }
+}",a9fc2f88-7857-4d58-bb75-4b8a5d4b2952,2023-07-13T18:21:54.098414131Z,70f2ef01-5730-4113-9689-3030f42c36c3,2023-07-13 18:21:54.141000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""b4bf1a2e-fcd1-43aa-8507-05ab4b7eb116"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""ca5ec371-cc5f-4038-b7e4-a26e12456d81"",
+    ""PaymentId"": ""86b32a36-9555-4b3d-9e79-5770f232c2b9"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1217"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""36"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-11 15:17:34.620000 UTC"",
+    ""GiftCardId"": ""0ae7bc96-9f32-4621-ab12-1814aeb857c9"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T15:17:38.315057625Z,697394d9-7581-4057-9ca9-3fa95a0cbc59,2023-07-11 15:17:38.336000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""80ad708c-e73d-4b3c-a38d-9ddf94166735"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""4df6114f-529a-48c0-91e7-137ec1b4c576"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""16600"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""498"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-11 14:15:29.979000 UTC"",
+    ""GiftCardId"": ""0aed8e11-64c4-4d3c-9c30-1adc53e73cfd"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T14:15:59.371903926Z,d6a20c2f-60a6-4e3e-bfe0-6cde8d720785,2023-07-11 14:15:59.392000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""80ad708c-e73d-4b3c-a38d-9ddf94166735"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""4df6114f-529a-48c0-91e7-137ec1b4c576"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""16600"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""498"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-11 14:15:29.979000 UTC"",
+    ""GiftCardId"": ""0aed8e11-64c4-4d3c-9c30-1adc53e73cfd"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T14:24:40.987474947Z,23d4dc5f-f168-4f87-9487-3f6951c5af5a,2023-07-11 14:24:41.027000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""bc0c25bc-69b5-4455-aa31-35deb9858c96"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""10658825-a48b-46d4-91a2-2dd9316dfdc0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-11 11:31:11.161000 UTC"",
+    ""GiftCardId"": ""1b3462e6-31bb-4bfd-ab22-e7b97aef7a19"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",87934720-09d4-4e31-99f3-59fc865050f0,2023-07-11T14:31:33.450976906Z,6b836e1b-498b-4be4-bbde-17aa2c49f97e,2023-07-11 14:31:33.471000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""bc0c25bc-69b5-4455-aa31-35deb9858c96"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""10658825-a48b-46d4-91a2-2dd9316dfdc0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-11 11:31:11.161000 UTC"",
+    ""GiftCardId"": ""1b3462e6-31bb-4bfd-ab22-e7b97aef7a19"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-11T14:22:45.359932342Z,1d593e10-2799-4e7f-abbb-2936876db68d,2023-07-11 14:22:45.389000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""bc0c25bc-69b5-4455-aa31-35deb9858c96"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""10658825-a48b-46d4-91a2-2dd9316dfdc0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-11 11:31:11.161000 UTC"",
+    ""GiftCardId"": ""1b3462e6-31bb-4bfd-ab22-e7b97aef7a19"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",eab7957c-57ea-42d3-8192-29205dba934e,2023-07-11T11:31:32.171335808Z,872865d8-90c3-4571-a698-ab3bdee99236,2023-07-11 11:31:32.191000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""c456973b-7d38-44ac-82e1-a0239b9d633f"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""2943e656-0c73-44e1-8673-9ba0a2817a06"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-11 11:32:22.629000 UTC"",
+    ""GiftCardId"": ""2337aed8-1a65-4215-bd85-26126d793719"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",eab7957c-57ea-42d3-8192-29205dba934e,2023-07-11T11:32:34.439741518Z,116a8e27-25f9-4068-8776-f28a58236142,2023-07-11 11:32:34.460000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""c456973b-7d38-44ac-82e1-a0239b9d633f"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""2943e656-0c73-44e1-8673-9ba0a2817a06"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-11 11:32:22.629000 UTC"",
+    ""GiftCardId"": ""2337aed8-1a65-4215-bd85-26126d793719"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",eab7957c-57ea-42d3-8192-29205dba934e,2023-07-11T11:36:21.833068568Z,1110e5e5-aeff-41e7-8ba0-840ffe287650,2023-07-11 11:36:21.853000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ad9e319e-351e-4ded-a409-8939641b5619"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""1425c0a5-0e16-4e0d-874b-adec7128aa90"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 13:52:33.615000 UTC"",
+    ""GiftCardId"": ""b1c3a705-c857-4aff-9cc5-c50b52c05730"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T13:52:57.317478587Z,b1f220da-261e-42e1-944c-258da6253de3,2023-07-11 13:52:57.337000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""26bccac2-48df-4bfb-96f9-d741ff9cfc49"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""aa4cd818-7a28-4d51-beba-6acfb4d369e0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 07:28:49.962000 UTC"",
+    ""GiftCardId"": ""167f6211-2398-487b-82b2-a85343b3b95e"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T07:28:59.183698972Z,9a139a3f-493d-4e16-a6e8-19b67ef4c4d4,2023-07-11 07:28:59.204000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""26bccac2-48df-4bfb-96f9-d741ff9cfc49"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""aa4cd818-7a28-4d51-beba-6acfb4d369e0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 07:28:49.962000 UTC"",
+    ""GiftCardId"": ""167f6211-2398-487b-82b2-a85343b3b95e"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T07:33:16.181279669Z,cd078640-614a-44b8-baa4-3812406f6b76,2023-07-11 07:33:16.210000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""6fde54fd-3530-4b11-9335-0cc1354d4bec"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""c1c75358-282e-4b5f-a40a-3f6115c8e060"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:32:57.497000 UTC"",
+    ""GiftCardId"": ""00f224fb-dc12-44fc-8443-34b1e255319e"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T12:33:07.125556987Z,a9a08178-7603-4bf3-8097-889372dea07e,2023-07-11 12:33:07.145000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""6fde54fd-3530-4b11-9335-0cc1354d4bec"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""c1c75358-282e-4b5f-a40a-3f6115c8e060"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:32:57.497000 UTC"",
+    ""GiftCardId"": ""00f224fb-dc12-44fc-8443-34b1e255319e"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T12:52:32.83390484Z,c9ac682c-92e9-46ec-9389-7f912dc209bc,2023-07-11 12:52:32.859000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""431d7bcd-d993-47e8-a265-cba9f3d8d739"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""25afd847-5a69-4661-90a1-a24b13954c1e"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 13:22:00.593000 UTC"",
+    ""GiftCardId"": ""1a596c16-17b0-4e1f-80d8-450e919e6cd1"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T13:22:18.939048458Z,4ac9cdb4-216c-4947-9757-9cd5e3855cff,2023-07-11 13:22:18.959000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""431d7bcd-d993-47e8-a265-cba9f3d8d739"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""25afd847-5a69-4661-90a1-a24b13954c1e"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 13:22:00.593000 UTC"",
+    ""GiftCardId"": ""1a596c16-17b0-4e1f-80d8-450e919e6cd1"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T13:24:13.592554452Z,98eac3e0-d277-4e8e-8a3e-f257474a7c5d,2023-07-11 13:24:13.613000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""afe61692-6cb0-4612-abc8-ff82c9cca286"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""60b28968-f164-4232-98b6-c7e181e04954"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 14:27:27.663000 UTC"",
+    ""GiftCardId"": ""c03c95a7-4b1b-4537-87a5-454bca4cd986"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T14:27:37.350709143Z,4b4d58a3-4dc8-4a3e-ad59-85277c16005f,2023-07-11 14:27:37.371000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""afe61692-6cb0-4612-abc8-ff82c9cca286"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""60b28968-f164-4232-98b6-c7e181e04954"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 14:27:27.663000 UTC"",
+    ""GiftCardId"": ""c03c95a7-4b1b-4537-87a5-454bca4cd986"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T14:28:45.613417149Z,9ab30ea4-3d9b-45aa-8cd5-8eaf37e7cda5,2023-07-11 14:28:45.633000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""f0afdc9d-bc2a-4406-854b-9de09c8d4ac4"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""a4b30788-56c0-49bb-a4d3-2ca3d17c4ebf"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:19:37.070000 UTC"",
+    ""GiftCardId"": ""936029ca-c3c6-469e-938b-77ab9ca3a781"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T12:19:56.904011942Z,0e3dd836-f769-44f4-a29f-b8176d50775c,2023-07-11 12:19:56.924000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""6a42f010-b044-4cd3-a5ea-5e745168960b"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""c25f50d7-29b3-48fd-8bfc-376f224c6da0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 14:30:22.975000 UTC"",
+    ""GiftCardId"": ""bd1856f7-ab8c-43fe-aaab-0e47112b5877"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T14:31:19.862588098Z,5049d2a1-bfbf-4926-b18f-3281127faee4,2023-07-11 14:31:19.883000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""bc80e638-9593-4b50-b74e-2c26388ae367"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""f5f2072b-ba16-43c0-85c1-89b1abca22cd"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:34:37.346000 UTC"",
+    ""GiftCardId"": ""95636e77-ab10-4fa2-8583-b8110a8b4ee5"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T12:35:00.485580957Z,f25d1144-a499-4df7-9dd9-3db8590d2356,2023-07-11 12:35:00.505000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""bc80e638-9593-4b50-b74e-2c26388ae367"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""f5f2072b-ba16-43c0-85c1-89b1abca22cd"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:34:37.346000 UTC"",
+    ""GiftCardId"": ""95636e77-ab10-4fa2-8583-b8110a8b4ee5"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T12:35:48.942464223Z,b095464a-367f-44d3-a298-ba797655d3b5,2023-07-11 12:35:48.962000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""45f2d99d-a6cd-40f0-92f1-4d6805737b93"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""729ca7fb-e562-4424-9efd-d27d0e51dc31"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 13:54:03.383000 UTC"",
+    ""GiftCardId"": ""a5dff393-3247-4041-b92f-1a1bbe0e8be0"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T13:54:26.029428412Z,a722df0a-8a85-49e6-9c79-c0a5662b585f,2023-07-11 13:54:26.049000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""45f2d99d-a6cd-40f0-92f1-4d6805737b93"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""729ca7fb-e562-4424-9efd-d27d0e51dc31"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 13:54:03.383000 UTC"",
+    ""GiftCardId"": ""a5dff393-3247-4041-b92f-1a1bbe0e8be0"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T13:57:51.0521655Z,78a50ab1-c81e-4fdb-aea3-623372735dcf,2023-07-11 13:57:51.072000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""6a42f010-b044-4cd3-a5ea-5e745168960b"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""c25f50d7-29b3-48fd-8bfc-376f224c6da0"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 14:30:22.975000 UTC"",
+    ""GiftCardId"": ""bd1856f7-ab8c-43fe-aaab-0e47112b5877"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T14:30:41.291309462Z,0dd3c7ca-cdbe-4383-80a2-1d40a2992da9,2023-07-11 14:30:41.311000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2df96eff-90cf-4935-b17a-932773ad3c4a"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""3ec7a516-9ec4-4d86-9934-9099a8c1e23c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:22:34.441000 UTC"",
+    ""GiftCardId"": ""9fe50439-7944-4b13-ac37-2efecd1bb16e"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T12:22:50.225892224Z,41c97468-fe40-4837-9d1c-ffe68af175fb,2023-07-11 12:22:50.247000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d6529db5-ed2a-4f87-9c80-e47fbda07856"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""e2a1e994-2121-4822-b962-6d6b1f4a8a48"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 14:47:36.812000 UTC"",
+    ""GiftCardId"": ""6589e553-ee88-4ec8-b037-6161104dc2c1"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T14:47:44.840334161Z,6641fc57-a323-489b-8628-475e33db1224,2023-07-11 14:47:44.860000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d6529db5-ed2a-4f87-9c80-e47fbda07856"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""e2a1e994-2121-4822-b962-6d6b1f4a8a48"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 14:47:36.812000 UTC"",
+    ""GiftCardId"": ""6589e553-ee88-4ec8-b037-6161104dc2c1"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T14:56:17.831250846Z,8c40deeb-ff32-4a84-92a7-43d85ee6d7bb,2023-07-11 14:56:17.861000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""19c56d3d-2605-4dc9-8b4e-0e62754d9b52"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""17824689-f43f-4b4a-8224-ad1d54322a61"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:55:25.291000 UTC"",
+    ""GiftCardId"": ""a1bc7fb3-484a-4eb1-8d58-00724eff1c04"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T12:55:33.423488288Z,14b10c79-d395-4bfc-b368-cae61cb97d98,2023-07-11 12:55:33.443000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""19c56d3d-2605-4dc9-8b4e-0e62754d9b52"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""17824689-f43f-4b4a-8224-ad1d54322a61"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 12:55:25.291000 UTC"",
+    ""GiftCardId"": ""a1bc7fb3-484a-4eb1-8d58-00724eff1c04"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-11T13:00:36.496165107Z,a686880f-cf82-400e-a98c-fe6483752db2,2023-07-11 13:00:36.516000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""80bb6bbf-e3fa-4152-bc90-d3c6aa88c064"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""13c577ce-d84b-4157-9e79-429dca6f6d28"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-11 15:36:31.424000 UTC"",
+    ""GiftCardId"": ""314b47e6-b740-477c-a146-612df6f5c0a2"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T15:36:41.778290516Z,1fc237df-9f21-4c7d-856d-4407046feac2,2023-07-11 15:36:41.798000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2dfc90ea-f0a2-4925-ad2d-ff443e00e2d0"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""a97fe506-33cf-4b9a-a5bb-d08940b464a4"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-11 15:37:45.801000 UTC"",
+    ""GiftCardId"": ""ff4558ab-68b4-46e3-accf-3dc97589a776"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-11T15:38:00.96098272Z,4949698d-e38f-4461-a3f1-bc394a370de4,2023-07-11 15:38:00.981000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""e02e7ed5-86ff-4663-b9ee-cb053e7e856d"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""b62d20b0-4e8a-4f89-b7a8-e1b7730b24b9"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 07:28:33.675000 UTC"",
+    ""GiftCardId"": ""f04d044e-0589-4e5c-a16a-c04523b346a4"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-12T07:28:45.252345274Z,3843999a-608b-4ab2-ba91-7cb60b95be96,2023-07-12 07:28:45.272000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ebe97ffd-e54a-4f05-ad1e-58d5d05ee99a"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""f631c53f-fb82-468b-bd39-11b7450de9f4"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 08:42:03.691000 UTC"",
+    ""GiftCardId"": ""fdc627dd-52f7-4a53-9342-d69200f1baff"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-12T08:42:14.159967114Z,2cc6e8ed-f7f4-49d7-bcd1-b230055ee6da,2023-07-12 08:42:14.180000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""daef5377-6d5f-48ed-a973-5eb5b7ed2b9b"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""d3d23f18-0b20-4838-bbb9-1c016ebb570a"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 14:07:29.957000 UTC"",
+    ""GiftCardId"": ""04196de9-f04f-4bb4-ac78-35e590506476"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-12T14:07:42.388910723Z,ff39c21a-349d-440e-82d8-43b5c805ce20,2023-07-12 14:07:42.409000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""13ef4088-3db6-44fe-96dd-095bad983cc7"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""c38f1928-1d66-44d9-8f99-06d3d8d89aaf"",
+    ""PaymentId"": ""3829ed05-68f6-4147-a348-f5e40fe2e94c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 09:09:00.109000 UTC"",
+    ""GiftCardId"": ""30c72b35-f766-4133-9681-92f51d06e8c2"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",c38f1928-1d66-44d9-8f99-06d3d8d89aaf,2023-07-12T09:09:43.68198948Z,9df79da2-170a-4876-8bdd-cceb55c12f06,2023-07-12 09:09:43.702000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""13ef4088-3db6-44fe-96dd-095bad983cc7"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""c38f1928-1d66-44d9-8f99-06d3d8d89aaf"",
+    ""PaymentId"": ""3829ed05-68f6-4147-a348-f5e40fe2e94c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 09:09:00.109000 UTC"",
+    ""GiftCardId"": ""30c72b35-f766-4133-9681-92f51d06e8c2"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-12T09:11:22.235256154Z,03d38b05-19a7-49c5-b398-97ce98f9ee5f,2023-07-12 09:11:22.256000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""13ef4088-3db6-44fe-96dd-095bad983cc7"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""c38f1928-1d66-44d9-8f99-06d3d8d89aaf"",
+    ""PaymentId"": ""3829ed05-68f6-4147-a348-f5e40fe2e94c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 09:09:00.109000 UTC"",
+    ""GiftCardId"": ""30c72b35-f766-4133-9681-92f51d06e8c2"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",4cac11cd-3e53-40ad-ace6-de708980bdcc,2023-07-12T09:12:42.654820503Z,1c5d7e45-0f32-426e-a21e-e40def2a6f72,2023-07-12 09:12:42.675000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""53ccd9d3-9c3d-4a59-974b-62086331a80f"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""900b1986-646e-4dab-9c38-79c1e61f7cbc"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-12 14:05:45.718000 UTC"",
+    ""GiftCardId"": ""6aa6f03d-65b9-4942-9668-e14c060af4d0"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-12T14:06:21.021344289Z,cf1a082c-c80a-4f71-a143-c55892f88310,2023-07-12 14:06:21.041000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""dd40b7a5-8f5a-493d-bdb2-764c4d0dd850"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""c38f1928-1d66-44d9-8f99-06d3d8d89aaf"",
+    ""PaymentId"": ""a3c3369a-5d4c-4881-8d9f-99b15388f0ef"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-10 11:27:23.783000 UTC"",
+    ""GiftCardId"": ""0e24758c-3025-4a1b-9079-cc261fde6173"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",c38f1928-1d66-44d9-8f99-06d3d8d89aaf,2023-07-10T11:28:14.422591376Z,ac0207c0-af42-42d9-ab8c-9a162a849803,2023-07-10 11:28:14.443000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""12181a68-8482-478e-a897-312588b5169a"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""aa9a0f68-74b6-4c63-b269-6ebc5374a29b"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-10 11:36:28.266000 UTC"",
+    ""GiftCardId"": ""3525e812-edaa-47b5-93a5-e1130afacecd"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",eab7957c-57ea-42d3-8192-29205dba934e,2023-07-10T11:36:43.341593439Z,29d7b22d-3c70-4ee3-8c6b-58d50cf49197,2023-07-10 11:36:43.362000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""12181a68-8482-478e-a897-312588b5169a"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""aa9a0f68-74b6-4c63-b269-6ebc5374a29b"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""e1bc2a57-3e01-43e0-9adb-aa72926ade9a"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""100"",
+    ""ProductName"": ""Test Nike Product"",
+    ""OrderedAt"": ""2023-07-10 11:36:28.266000 UTC"",
+    ""GiftCardId"": ""3525e812-edaa-47b5-93a5-e1130afacecd"",
+    ""CommissionPercentage"": ""20.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",5576c270-9ef5-432e-b50a-70907527465a,2023-07-10T11:39:49.071064345Z,243c6e71-4758-4d5d-9c8a-8c6083e9ef59,2023-07-10 11:39:49.091000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""a32d4344-a82b-4172-966d-b8a8004cf68d"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""424c27d8-9ae1-4ead-99b9-c6d7c45672db"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 08:25:26.065000 UTC"",
+    ""GiftCardId"": ""c73210ee-83f3-47a5-b8c0-a50fab4df6c0"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-14T08:25:34.215919845Z,b0083523-71f7-4a30-aced-ffe39c2965a9,2023-07-14 08:25:34.236000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""a32d4344-a82b-4172-966d-b8a8004cf68d"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""424c27d8-9ae1-4ead-99b9-c6d7c45672db"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 08:25:26.065000 UTC"",
+    ""GiftCardId"": ""c73210ee-83f3-47a5-b8c0-a50fab4df6c0"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-14T08:26:59.868991331Z,2d62933f-8458-4d4c-bd0c-529a2b3e20d6,2023-07-14 08:26:59.889000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""a32d4344-a82b-4172-966d-b8a8004cf68d"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""424c27d8-9ae1-4ead-99b9-c6d7c45672db"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 08:25:26.065000 UTC"",
+    ""GiftCardId"": ""c73210ee-83f3-47a5-b8c0-a50fab4df6c0"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",dd7b6015-b60b-4ed0-b227-1003e80f562e,2023-07-14T08:28:03.619453954Z,a62217dc-7431-497f-b0e3-fc54bd27037d,2023-07-14 08:28:03.639000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""9ed8a6e8-2ffb-426f-ba07-365ba3b9250d"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""5a5a48ec-7492-4fdb-a80c-63d53b559c37"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 08:32:50.780000 UTC"",
+    ""GiftCardId"": ""987e8e5c-b582-4335-a5a0-019612b86600"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-14T08:32:57.892573951Z,8390b4b2-8456-413f-84ae-87569fb055b3,2023-07-14 08:32:57.912000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""9ed8a6e8-2ffb-426f-ba07-365ba3b9250d"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""5a5a48ec-7492-4fdb-a80c-63d53b559c37"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 08:32:50.780000 UTC"",
+    ""GiftCardId"": ""987e8e5c-b582-4335-a5a0-019612b86600"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-14T08:34:59.675056254Z,6f26c8d2-7cbf-41ab-8d2b-a43b210d87be,2023-07-14 08:34:59.695000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""9ed8a6e8-2ffb-426f-ba07-365ba3b9250d"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""5a5a48ec-7492-4fdb-a80c-63d53b559c37"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 08:32:50.780000 UTC"",
+    ""GiftCardId"": ""987e8e5c-b582-4335-a5a0-019612b86600"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",86bec11e-eec0-41d2-ad26-41348652b10c,2023-07-14T08:36:28.91175014Z,c0f57b0c-19c6-47b3-9d1e-a0084e164b8c,2023-07-14 08:36:28.932000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d7e12985-4c67-43b4-b10f-f45f555d69c4"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""926c940e-5928-4050-8fd4-3c5fda4bdae8"",
+    ""PaymentId"": """",
+    ""GiftCardTemplateId"": ""bd2de523-8c6f-49fd-8b7d-200b6952758f"",
+    ""GiftCardAmount"": ""1500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": """",
+    ""IssuerType"": """",
+    ""CashbackAmount"": ""0"",
+    ""ProductName"": """",
+    ""OrderedAt"": ""1970-01-01 00:00:00.000000 UTC"",
+    ""GiftCardId"": """",
+    ""CommissionPercentage"": ""0.0"",
+    ""PaymentStatus"": ""NOT_PAID"",
+    ""Source"": ""GAMIFICATION"",
+    ""PaymentTimeType"": """",
+    ""IsGiveaway"": ""false""
+  }
+}",926c940e-5928-4050-8fd4-3c5fda4bdae8,2023-07-06T12:08:15.571350809Z,a39b198c-ed2a-4899-b790-53304e3721a7,2023-07-06 12:08:15.897000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""08828e11-f399-4180-a259-aa84beb44b5c"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""926c940e-5928-4050-8fd4-3c5fda4bdae8"",
+    ""PaymentId"": """",
+    ""GiftCardTemplateId"": ""a841f6d0-f0a8-42a1-9e27-7ac74a59ca20"",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": """",
+    ""IssuerType"": """",
+    ""CashbackAmount"": ""0"",
+    ""ProductName"": """",
+    ""OrderedAt"": ""1970-01-01 00:00:00.000000 UTC"",
+    ""GiftCardId"": """",
+    ""CommissionPercentage"": ""0.0"",
+    ""PaymentStatus"": ""NOT_PAID"",
+    ""Source"": ""GAMIFICATION"",
+    ""PaymentTimeType"": """",
+    ""IsGiveaway"": ""false""
+  }
+}",926c940e-5928-4050-8fd4-3c5fda4bdae8,2023-07-06T12:09:13.800364993Z,11433e56-099a-4d99-b635-2107fe704df5,2023-07-06 12:09:13.908000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""5c553d7c-0676-460c-9018-e5e5beff0434"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""64ac2b3c-7d4c-4f2d-9aaa-ae2500f22eac"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-06 08:46:34.145000 UTC"",
+    ""GiftCardId"": ""d1639ce5-05de-470e-9ea7-2c7f48c17d8f"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-06T08:47:37.972961094Z,5a92cafe-81bb-4a35-83a3-cd2f3367eefe,2023-07-06 08:47:37.993000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""16bb219b-8315-4f01-8fb7-7d393b8e5de1"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""99a876fc-3c6d-498f-b505-8f1b03f58676"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 06:46:00.861000 UTC"",
+    ""GiftCardId"": ""a63bae10-f8ea-42dc-9754-f266769366fc"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:32:40.621472294Z,da156aa7-82ac-4da3-9aa7-ae8837ddbb2c,2023-07-03 10:32:40.642000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""39b0430b-e2ed-49f4-bfe1-7a9cb494a39b"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""27d6d69f-54ac-424e-a278-ea761946805f"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 10:36:08.965000 UTC"",
+    ""GiftCardId"": ""9d8cfe93-abf7-4dd7-8a0d-1817c9b78d3d"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:36:10.344806097Z,2fb4c27f-c6e7-42a4-b341-72230bf2b7f5,2023-07-03 10:36:10.365000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""310a5e51-e944-4beb-8c12-e9353b900965"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""df8b183a-3719-49bc-b2b8-49e7adfa80f4"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-05-14 13:10:37.947000 UTC"",
+    ""GiftCardId"": ""debed562-a5dc-4812-89da-f41cb2954283"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-03T14:12:39.823920166Z,86bfe0bd-73c1-478a-afd3-410cca5792be,2023-07-03 14:12:42.711000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""310a5e51-e944-4beb-8c12-e9353b900965"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""8e71f0b5-59b9-4685-a0b1-9d5804c36bd4"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 11:39:46.234000 UTC"",
+    ""GiftCardId"": ""debed562-a5dc-4812-89da-f41cb2954283"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-03T11:39:47.75134609Z,17e0f9f1-6e34-45cc-a2cc-7b635afe7eb6,2023-07-03 11:39:47.771000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""16bb219b-8315-4f01-8fb7-7d393b8e5de1"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""ebcc2a93-d446-4a48-981a-a04d749d1164"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 06:46:00.861000 UTC"",
+    ""GiftCardId"": ""a63bae10-f8ea-42dc-9754-f266769366fc"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T06:46:03.600785385Z,dcc737fa-0619-4e05-bf8f-a6231ad6dd8d,2023-07-03 06:46:03.621000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""c9c97137-ee06-4642-8800-7ec0791530ff"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""d52781ce-7e58-4d8d-ba54-fe78166c7e86"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 14:13:08.142000 UTC"",
+    ""GiftCardId"": ""5dcf48ca-fbef-4879-bee9-8cc9e0b9c973"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-03T14:13:13.739930616Z,25a94930-0dd4-4118-aa48-39fed3dbb91b,2023-07-03 14:13:13.760000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""c9c97137-ee06-4642-8800-7ec0791530ff"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""4272b354-e665-4686-8b3f-eedc009de35b"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-05-14 14:23:27.462000 UTC"",
+    ""GiftCardId"": ""5dcf48ca-fbef-4879-bee9-8cc9e0b9c973"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-03T14:35:07.379178725Z,77cf82f3-e215-4139-89b8-5d487bad0f91,2023-07-03 14:35:08.571000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""22efc74e-1ccd-4d00-a0d3-74c49840d966"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""7d1439dd-83d2-4958-ae1b-03df5024766e"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:13:15.509000 UTC"",
+    ""GiftCardId"": ""609b2fbb-2662-4acc-b694-8b35323dcb08"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T07:13:24.354146563Z,6cd13f81-1462-40a1-8886-d5ced9012efe,2023-07-03 07:13:24.374000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""22efc74e-1ccd-4d00-a0d3-74c49840d966"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""7d1439dd-83d2-4958-ae1b-03df5024766e"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:13:15.509000 UTC"",
+    ""GiftCardId"": ""609b2fbb-2662-4acc-b694-8b35323dcb08"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-03T07:15:25.129388109Z,d254778a-c3b6-42b6-b6c0-248914d90585,2023-07-03 07:15:25.191000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""cadb6b82-a5d8-470c-ade0-1cfe4caf6325"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""090b361b-eaa8-433b-915d-c9fedcaf704c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:20:00.235000 UTC"",
+    ""GiftCardId"": ""7a45670f-e80f-40a3-aa87-b3563e84426d"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T07:20:03.346984342Z,eb044525-1c56-4487-90ac-76d0a4f7d75d,2023-07-03 07:20:03.367000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""cadb6b82-a5d8-470c-ade0-1cfe4caf6325"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""090b361b-eaa8-433b-915d-c9fedcaf704c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:20:00.235000 UTC"",
+    ""GiftCardId"": ""7a45670f-e80f-40a3-aa87-b3563e84426d"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-03T07:21:01.740765734Z,5b0911ed-bac9-4751-905e-c1d90ece092e,2023-07-03 07:21:01.761000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""fb40f5ac-9f9e-49d1-8735-9b841aa07069"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""25223eab-4770-4929-adc0-516b6ef8b0cf"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""200"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""6"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:23:24.865000 UTC"",
+    ""GiftCardId"": ""a73bf138-f0f0-410d-803b-eb72e5f1fe4b"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:32:52.698192021Z,c34bfdc0-e4c8-4d6d-8a65-88b1c0c35890,2023-07-03 10:32:52.718000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""fb40f5ac-9f9e-49d1-8735-9b841aa07069"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""75810ba4-cf85-4ce1-a616-026fc69e9f3c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""200"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""6"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:23:24.865000 UTC"",
+    ""GiftCardId"": ""a73bf138-f0f0-410d-803b-eb72e5f1fe4b"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T07:23:26.40696449Z,d7a667a9-4bd3-4928-b8a7-4968199be088,2023-07-03 07:23:26.427000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""fb40f5ac-9f9e-49d1-8735-9b841aa07069"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""75810ba4-cf85-4ce1-a616-026fc69e9f3c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""200"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""6"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-03 07:23:24.865000 UTC"",
+    ""GiftCardId"": ""a73bf138-f0f0-410d-803b-eb72e5f1fe4b"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-03T07:23:53.969578525Z,271b4d41-190b-410e-8136-576cdad3e92f,2023-07-03 07:23:53.990000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""766602f2-155e-4c56-afe4-3894097d5b27"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""d428c8ea-2995-4f9e-8dd0-610eb68b5ff4"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-03 09:59:05.687000 UTC"",
+    ""GiftCardId"": ""efda4ca9-fcaf-4a0f-a094-047f4b5ff8e7"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T09:59:12.435354001Z,4cd83ac8-1911-44b6-b269-d96764b79070,2023-07-03 09:59:12.455000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""8f71d496-4e49-4f9c-bf85-e5f0f4e28d37"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""0b9d83d8-5569-4fdf-a685-5c87f2aabfe7"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-03 10:09:22.967000 UTC"",
+    ""GiftCardId"": ""748bdb0b-ceb2-4954-9f46-e81c4d614c56"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-03T10:09:39.220680627Z,495d169a-2329-43d5-b999-bea0d29bce7b,2023-07-03 10:09:39.241000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""f549473f-559e-4405-ae30-7870ca5fd620"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""3cbdac90-d680-4c75-b462-2e649266807f"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-06-30 14:45:50.219000 UTC"",
+    ""GiftCardId"": ""95c0aed9-5a2a-4913-97ad-0203b22aa567"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:31:58.883100662Z,32cebba1-2183-4ebf-aac8-b0c7b331a4d2,2023-07-03 10:31:58.915000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""b9ca3026-659b-4741-92c6-cb4d753ef5d0"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""5b21a1f6-7e58-40f2-a9c2-9bf72bd74e00"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-06-30 15:14:05.321000 UTC"",
+    ""GiftCardId"": ""930683c4-b03c-4f6f-8bc0-69bdc5c6fec3"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:32:13.99919895Z,6757da82-49e0-4035-8807-b1ad972900ba,2023-07-03 10:32:14.019000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""815bdac8-f7bb-46cd-91c2-6498323dc589"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""c3ad81e6-7539-4d66-8229-6b469095798f"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-03 06:40:02.506000 UTC"",
+    ""GiftCardId"": ""2a1fcdbe-f016-42fa-bf66-effb078541f2"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:32:26.849906259Z,1a984896-6481-4da8-bb31-74235915c373,2023-07-03 10:32:26.870000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""766602f2-155e-4c56-afe4-3894097d5b27"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""a4855590-9945-4c89-8c26-39adf69ecc7d"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-03 09:59:05.687000 UTC"",
+    ""GiftCardId"": ""efda4ca9-fcaf-4a0f-a094-047f4b5ff8e7"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T10:33:05.723582651Z,c6938f25-c821-4120-a16e-eed0659c5816,2023-07-03 10:33:05.744000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""815bdac8-f7bb-46cd-91c2-6498323dc589"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""88c54f01-3fc2-4b6d-9db2-2857eb05a94f"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-03 06:40:02.506000 UTC"",
+    ""GiftCardId"": ""2a1fcdbe-f016-42fa-bf66-effb078541f2"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-03T06:40:12.79272806Z,2bae30e0-07db-479d-afb6-779fc52fa8c6,2023-07-03 06:40:12.813000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""81666679-4d26-42d8-b86c-67307b7d0f8d"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""085be9be-5443-4b01-9169-1d6b775fd958"",
+    ""PaymentId"": ""bd15192a-f3c3-453c-9324-450133688275"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-05-14 15:06:22.367000 UTC"",
+    ""GiftCardId"": ""74d2341c-8b3f-4d9e-9dfe-831857fc1826"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",085be9be-5443-4b01-9169-1d6b775fd958,2023-07-03T15:45:31.395553739Z,cf40d4ba-f964-468d-bad5-14440d9e8197,2023-07-03 15:45:31.445000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""7acefa62-7782-4c21-8610-e70d5dfecd5f"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""a75a4aef-f69a-450f-a301-d107c97bdc96"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-06-22 09:27:35.510000 UTC"",
+    ""GiftCardId"": ""ae9ad93e-7bb9-4cf9-ba12-13f666cc82ce"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-03T11:35:29.961821218Z,a606b8b9-562d-40d6-b632-3837958e94ba,2023-07-03 11:35:29.998000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""0aad2611-b145-42c1-8f29-ca794116ddc0"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""663ad311-dddf-4d89-99e3-93cd5b42a24e"",
+    ""PaymentId"": ""0d16d26c-7a14-440c-b3e7-b8b842c35e15"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-05-15 09:35:04.118000 UTC"",
+    ""GiftCardId"": ""6266ea29-68a5-43f9-9cd6-33036353a034"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",663ad311-dddf-4d89-99e3-93cd5b42a24e,2023-07-03T13:51:54.306918089Z,5e3e4ff7-018f-4bf2-aec8-63f200920cd3,2023-07-03 13:51:54.353000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""387ec6f8-3e8b-495b-8d31-8cf4c2226315"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""7e1c67da-9041-4b19-aa2c-185e5c250fd8"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-03 10:01:29.533000 UTC"",
+    ""GiftCardId"": ""b1297f24-eca1-4bcc-a0d6-1add335ee109"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-03T10:01:43.79581697Z,5c81a62f-4539-4e91-8fcf-52f5cf907e0f,2023-07-03 10:01:43.816000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""47fe7d1f-6509-4f61-8466-56b3c3b7508f"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""baac448f-d0c5-415b-b72c-214466445c8c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-03 10:32:50.157000 UTC"",
+    ""GiftCardId"": ""bbcf4775-71e0-45f6-942c-f9bb10753585"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-03T10:33:04.067983267Z,e1bdafc1-773e-42c5-935f-af7d301ca5da,2023-07-03 10:33:04.088000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""cb9a2b56-768d-462a-a0ec-d6794db22e08"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""5532b995-2a3d-4e35-9df4-bba9b09d8392"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-03 08:26:13.092000 UTC"",
+    ""GiftCardId"": ""9897107e-d656-4ecf-8d1c-8b57a9f7ec94"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-03T08:26:54.731063383Z,3bdc7ae0-cb11-459e-96e8-cc13d1d360ef,2023-07-03 08:26:54.751000 UTC,Woolsocks,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""265e9954-b8f9-4a1e-a2e5-d360c5004c3e"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": """",
+    ""GiftCardTemplateId"": ""84be5ef5-e9a2-4396-a323-7daae37f533b"",
+    ""GiftCardAmount"": ""1500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": """",
+    ""IssuerType"": """",
+    ""CashbackAmount"": ""0"",
+    ""ProductName"": """",
+    ""OrderedAt"": ""1970-01-01 00:00:00.000000 UTC"",
+    ""GiftCardId"": """",
+    ""CommissionPercentage"": ""0.0"",
+    ""PaymentStatus"": ""NOT_PAID"",
+    ""Source"": ""GAMIFICATION"",
+    ""PaymentTimeType"": """",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-04T11:25:59.22458816Z,bcb774a9-fa3d-4860-91e8-ba2965158da8,2023-07-04 11:25:59.245000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ff984d7d-bbf4-4df4-90a7-ae56f9095e65"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""c38f1928-1d66-44d9-8f99-06d3d8d89aaf"",
+    ""PaymentId"": ""32730240-b89f-45df-9f67-ac3874ea2465"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-04 14:09:02.622000 UTC"",
+    ""GiftCardId"": ""2b769f8f-f29f-43a5-8305-a4e656bb8e77"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",c38f1928-1d66-44d9-8f99-06d3d8d89aaf,2023-07-04T14:09:19.867993637Z,e66b81bf-d899-418b-8552-4c9ce42e7753,2023-07-04 14:09:19.888000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""9d7dea71-aa2a-463b-82cb-a278d529f13c"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""b682adc4-b1a6-49ca-a575-d1ef57be393d"",
+    ""PaymentId"": ""e0781138-586b-46b7-8dac-4a1becc9b57a"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-05-15 13:28:01.422000 UTC"",
+    ""GiftCardId"": ""fb77fa4f-ee9e-4b87-a849-f086b6951802"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",b682adc4-b1a6-49ca-a575-d1ef57be393d,2023-07-04T14:15:29.400742206Z,2f69404f-70c6-48aa-a134-6cfdc708cee5,2023-07-04 14:15:29.421000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d0ff58bb-b6ce-4aa2-9d81-0e0c3ae07665"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""4abf3134-381a-474e-bb55-20677a57440d"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""b0c64e30-1318-4a62-aaf6-393604bb59b8"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""40"",
+    ""ProductName"": ""Gamma cadeaukaart Nederland"",
+    ""OrderedAt"": ""2023-07-04 11:44:38.401000 UTC"",
+    ""GiftCardId"": ""b07669fc-3d03-4062-b612-ac331d0b1c81"",
+    ""CommissionPercentage"": ""6.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-04T11:45:09.230832924Z,3d597ecc-69a7-45ad-88c8-001c67085fa2,2023-07-04 11:45:09.251000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""6fd67710-4512-40a9-85ba-dfb363d61faa"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""c88d55d6-0f0a-461d-9653-3e7ef48624ca"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""b0c64e30-1318-4a62-aaf6-393604bb59b8"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""40"",
+    ""ProductName"": ""Gamma cadeaukaart Nederland"",
+    ""OrderedAt"": ""2023-07-04 11:29:11.960000 UTC"",
+    ""GiftCardId"": ""1620dbcb-ba74-4af5-9090-050d7d380721"",
+    ""CommissionPercentage"": ""6.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-04T11:29:21.992271518Z,5272dd31-4f9a-4ce3-ae1f-2523b47eb8b8,2023-07-04 11:29:22.012000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""64e680c4-cf7f-451f-ba99-c8ccd71cd096"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""2ca80ed9-8352-47d2-bd87-41e04457c80c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 12:36:30.334000 UTC"",
+    ""GiftCardId"": ""6360c870-1e06-4dae-bcc3-5e84bc0f700a"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",86ed6aec-8506-455c-bcd7-811c0af62cee,2023-07-04T12:36:42.371942304Z,2f96d24b-298c-43e1-85b7-f653867f176e,2023-07-04 12:36:42.393000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""64e680c4-cf7f-451f-ba99-c8ccd71cd096"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""86ed6aec-8506-455c-bcd7-811c0af62cee"",
+    ""PaymentId"": ""2ca80ed9-8352-47d2-bd87-41e04457c80c"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 12:36:30.334000 UTC"",
+    ""GiftCardId"": ""6360c870-1e06-4dae-bcc3-5e84bc0f700a"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-04T12:37:06.860731299Z,f547f986-705a-45a6-a833-af97412a8942,2023-07-04 12:37:06.881000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""524e4b1d-d76b-40d0-a216-a56c80dd0efa"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""d960dfde-ab26-4245-a704-b9340c6177d1"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 09:42:50.115000 UTC"",
+    ""GiftCardId"": ""334a846b-37da-4d13-9647-9b4c43e4ba04"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-04T09:43:06.109190648Z,bc8eeb0d-9fdb-4b2f-a310-1f29d02b903c,2023-07-04 09:43:06.129000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""405adb91-b6c1-4288-bef7-9bfe3d885500"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""f3e95546-93e6-4879-8881-4a7ed9b05662"",
+    ""PaymentId"": ""802395f6-102b-4856-a1df-450a9b78ad46"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 09:55:31.764000 UTC"",
+    ""GiftCardId"": ""94607dc2-b80f-4d01-a5f5-6670aae975ba"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",f3e95546-93e6-4879-8881-4a7ed9b05662,2023-07-04T09:55:41.878984456Z,eaadf1da-b3c8-4e5e-a905-865f48b9cae7,2023-07-04 09:55:41.899000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ecdc0e9b-44d0-4545-93b6-83b46e98fec7"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""76400a46-4291-4a6a-99ed-78a5273edaa5"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 14:36:15.272000 UTC"",
+    ""GiftCardId"": ""dd61358d-1e55-41e2-851f-a1461361842c"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-04T14:36:17.222872403Z,cfeb1969-92ca-4890-bc47-18bd004ee65a,2023-07-04 14:36:17.243000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ecdc0e9b-44d0-4545-93b6-83b46e98fec7"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""76400a46-4291-4a6a-99ed-78a5273edaa5"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 14:36:15.272000 UTC"",
+    ""GiftCardId"": ""dd61358d-1e55-41e2-851f-a1461361842c"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-04T14:36:58.166310109Z,a7fcce7d-16ed-4273-a8d5-2ae36160c11a,2023-07-04 14:36:58.186000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ecdc0e9b-44d0-4545-93b6-83b46e98fec7"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""76400a46-4291-4a6a-99ed-78a5273edaa5"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-04 14:36:15.272000 UTC"",
+    ""GiftCardId"": ""dd61358d-1e55-41e2-851f-a1461361842c"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",fd010ce6-73b9-47db-a5ff-975373a68c87,2023-07-04T14:38:40.561695228Z,2c725671-6f2f-48a2-89c7-9737a33e3e4c,2023-07-04 14:38:40.582000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d8d7c556-7d2d-4ab5-826a-500c71c0a73d"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""4ba25f24-975b-4c55-8b38-c85f2d3ce386"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""183"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""5"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-04 14:30:48.847000 UTC"",
+    ""GiftCardId"": ""2729b78a-af91-401d-956e-af43a559cc35"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-04T14:30:53.996622118Z,662d32df-4fe7-4df1-b8f0-041349ce890a,2023-07-04 14:30:54.017000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""d8d7c556-7d2d-4ab5-826a-500c71c0a73d"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""4ba25f24-975b-4c55-8b38-c85f2d3ce386"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""183"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""5"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-04 14:30:48.847000 UTC"",
+    ""GiftCardId"": ""2729b78a-af91-401d-956e-af43a559cc35"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-04T14:32:16.830795967Z,64cd7219-5f2a-401b-b338-743cc79d9cac,2023-07-04 14:32:16.851000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""3377645e-da7a-42bc-80cb-59ded56e0b69"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""87ac523a-dd73-4316-b0da-4ad49b310f0b"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-13 08:17:33.969000 UTC"",
+    ""GiftCardId"": ""032e6dcb-b73f-482c-86d6-0373c1cb1fd4"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T08:18:02.178267911Z,c284f37f-31c0-4a64-921d-f2b369a1d2f9,2023-07-13 08:18:02.198000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""f9417bde-1231-458d-998e-9b404c0a8304"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""979e45fd-c71a-4d85-8a32-26b72e873306"",
+    ""PaymentId"": ""6165c9ba-5589-49ae-af91-378d1c6e1c14"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 06:57:55.839000 UTC"",
+    ""GiftCardId"": ""5df141d4-1998-45e8-afb7-7a382c93d721"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",979e45fd-c71a-4d85-8a32-26b72e873306,2023-07-13T06:58:20.86502092Z,5b627185-a262-470e-b4bf-254c977f2718,2023-07-13 06:58:20.885000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""f9417bde-1231-458d-998e-9b404c0a8304"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""979e45fd-c71a-4d85-8a32-26b72e873306"",
+    ""PaymentId"": ""6165c9ba-5589-49ae-af91-378d1c6e1c14"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""150"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 06:57:55.839000 UTC"",
+    ""GiftCardId"": ""5df141d4-1998-45e8-afb7-7a382c93d721"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-13T07:04:42.706475884Z,a3c36dfb-ddbd-45b2-b618-eb6da1b38cc4,2023-07-13 07:04:42.726000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ca01a2db-dfdc-4b19-bd38-f7bfd159ac46"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""4cac11cd-3e53-40ad-ace6-de708980bdcc"",
+    ""PaymentId"": ""f39527c2-f3d8-468c-9936-8b6cc92cfcee"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 06:52:43.055000 UTC"",
+    ""GiftCardId"": ""0ff42401-4bce-4195-be8d-3042ad0bf875"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",4cac11cd-3e53-40ad-ace6-de708980bdcc,2023-07-13T06:53:07.073936463Z,ed2191a1-571f-46d6-ad28-4fb11902a31c,2023-07-13 06:53:07.094000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ca01a2db-dfdc-4b19-bd38-f7bfd159ac46"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""4cac11cd-3e53-40ad-ace6-de708980bdcc"",
+    ""PaymentId"": ""f39527c2-f3d8-468c-9936-8b6cc92cfcee"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 06:52:43.055000 UTC"",
+    ""GiftCardId"": ""0ff42401-4bce-4195-be8d-3042ad0bf875"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-13T06:54:55.566773348Z,ecd33839-7278-44b1-b8b2-d3d7416dd34c,2023-07-13 06:54:55.587000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""ca01a2db-dfdc-4b19-bd38-f7bfd159ac46"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""4cac11cd-3e53-40ad-ace6-de708980bdcc"",
+    ""PaymentId"": ""f39527c2-f3d8-468c-9936-8b6cc92cfcee"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 06:52:43.055000 UTC"",
+    ""GiftCardId"": ""0ff42401-4bce-4195-be8d-3042ad0bf875"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",979e45fd-c71a-4d85-8a32-26b72e873306,2023-07-13T06:56:25.331202518Z,a21ac6c6-dc62-40a2-9026-924eede78fee,2023-07-13 06:56:25.351000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""b33d67ac-91d9-4d3b-85d6-4d5aa9767c2a"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""369ce960-f036-4ccf-a0ff-54bc745218e8"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 08:13:27.791000 UTC"",
+    ""GiftCardId"": ""1c8fc86e-db05-402f-ace6-ff8169f0c274"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T08:14:04.324465734Z,ded3530d-007e-41b1-ba8e-c93fe44b23cf,2023-07-13 08:14:04.344000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2d772e42-f051-47fd-9a5a-871504d74daf"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""55c5fd4f-2851-440d-ac5a-58a74449c366"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 08:32:06.273000 UTC"",
+    ""GiftCardId"": ""30f91352-db25-444f-a12a-a73c507daa78"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T08:32:35.282034294Z,347f79f7-5a7f-4229-8c29-61dac43e21d2,2023-07-13 08:32:35.303000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2d772e42-f051-47fd-9a5a-871504d74daf"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""55c5fd4f-2851-440d-ac5a-58a74449c366"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 08:32:06.273000 UTC"",
+    ""GiftCardId"": ""30f91352-db25-444f-a12a-a73c507daa78"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",7fde2eba-46e7-4ad7-8a0e-6d9e82fd7bed,2023-07-13T08:38:59.250413591Z,00ab3605-d170-422f-9a92-c9491a565139,2023-07-13 08:38:59.270000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2d772e42-f051-47fd-9a5a-871504d74daf"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""55c5fd4f-2851-440d-ac5a-58a74449c366"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 08:32:06.273000 UTC"",
+    ""GiftCardId"": ""30f91352-db25-444f-a12a-a73c507daa78"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",7fde2eba-46e7-4ad7-8a0e-6d9e82fd7bed,2023-07-13T08:39:01.661657787Z,f9973a92-3932-473a-913c-dc6d5ffd06dc,2023-07-13 08:39:01.694000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""4e37dc32-2faf-4710-a43d-d9a40294d065"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""c02b70b7-536c-4d6d-9306-bde8b2e635b6"",
+    ""PaymentId"": ""8e52bc14-b7f7-476e-a83e-e775dceda60d"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 12:45:21.077000 UTC"",
+    ""GiftCardId"": ""6787b6fd-9758-4f32-a7c5-75e6c5135075"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",c02b70b7-536c-4d6d-9306-bde8b2e635b6,2023-07-13T12:45:42.897354729Z,061ae531-f41e-4036-828c-382f7b0c82b2,2023-07-13 12:45:42.917000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""4e37dc32-2faf-4710-a43d-d9a40294d065"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""c02b70b7-536c-4d6d-9306-bde8b2e635b6"",
+    ""PaymentId"": ""8e52bc14-b7f7-476e-a83e-e775dceda60d"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 12:45:21.077000 UTC"",
+    ""GiftCardId"": ""6787b6fd-9758-4f32-a7c5-75e6c5135075"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-13T12:47:05.032027313Z,cda7742b-ced0-47cc-b3bd-a57ba02a5784,2023-07-13 12:47:05.052000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""4e37dc32-2faf-4710-a43d-d9a40294d065"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""c02b70b7-536c-4d6d-9306-bde8b2e635b6"",
+    ""PaymentId"": ""8e52bc14-b7f7-476e-a83e-e775dceda60d"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 12:45:21.077000 UTC"",
+    ""GiftCardId"": ""6787b6fd-9758-4f32-a7c5-75e6c5135075"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",e4833416-fec1-49e9-8485-8e7794ba8759,2023-07-13T12:48:12.408719036Z,9cbae5f6-ab55-447d-bf3e-441e7b57c969,2023-07-13 12:48:12.429000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""94d020dd-58fa-4816-8e86-2f431f76acae"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""e4833416-fec1-49e9-8485-8e7794ba8759"",
+    ""PaymentId"": ""52667533-1816-45c8-bd61-abfa7a738054"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 12:52:32.007000 UTC"",
+    ""GiftCardId"": ""5b30063b-746c-4d84-8c7c-d495ae0d82e3"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",e4833416-fec1-49e9-8485-8e7794ba8759,2023-07-13T12:52:40.079076613Z,97c924fa-14c7-4ae8-aa37-b0c15bca0831,2023-07-13 12:52:40.099000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""94d020dd-58fa-4816-8e86-2f431f76acae"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""e4833416-fec1-49e9-8485-8e7794ba8759"",
+    ""PaymentId"": ""52667533-1816-45c8-bd61-abfa7a738054"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 12:52:32.007000 UTC"",
+    ""GiftCardId"": ""5b30063b-746c-4d84-8c7c-d495ae0d82e3"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-13T12:53:09.576859677Z,d5614d2e-7c06-4bb4-bc9e-2589f5d36737,2023-07-13 12:53:09.597000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""94d020dd-58fa-4816-8e86-2f431f76acae"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""e4833416-fec1-49e9-8485-8e7794ba8759"",
+    ""PaymentId"": ""52667533-1816-45c8-bd61-abfa7a738054"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 12:52:32.007000 UTC"",
+    ""GiftCardId"": ""5b30063b-746c-4d84-8c7c-d495ae0d82e3"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",7ed8b03b-8729-48a9-b25e-b1e8f0526600,2023-07-13T12:53:59.981534003Z,fffc7678-6b0d-4cd2-891a-62ef09aeb802,2023-07-13 12:54:00.001000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""82774e55-343c-4d85-9ef4-2506e93a44a8"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""ad2f7f60-ac82-4dd9-b279-6ce5af39d26b"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-13 08:14:38.006000 UTC"",
+    ""GiftCardId"": ""b94cfe42-460b-44d1-8c54-7af254ea8d0d"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T08:14:46.996010957Z,de78ed91-2225-4e7b-9e9d-1123215c7da8,2023-07-13 08:14:47.016000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""579d4b1d-498e-4938-a087-33d4bb2f4ff0"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""efc2978b-0e17-408d-9ae8-1a8c9b69167a"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-13 07:14:59.554000 UTC"",
+    ""GiftCardId"": ""bd02882f-1b11-491e-89b7-d3e6b967a94c"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T07:15:16.939437918Z,7ebd967b-ae0c-48e4-9d55-6b79623b2c66,2023-07-13 07:15:16.959000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""eff79783-7598-4490-a244-d2b2736848e3"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""bcde6552-38f2-4221-929c-acf45f8cffd3"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-13 07:55:16.007000 UTC"",
+    ""GiftCardId"": ""17517598-7af2-41c8-97c8-a88da7d1d0f0"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T07:56:06.940214353Z,537dc63b-9ebe-449f-85bb-342adb76cd30,2023-07-13 07:56:06.960000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""eff79783-7598-4490-a244-d2b2736848e3"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""bcde6552-38f2-4221-929c-acf45f8cffd3"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-13 07:55:16.007000 UTC"",
+    ""GiftCardId"": ""17517598-7af2-41c8-97c8-a88da7d1d0f0"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-13T08:19:17.342913996Z,29904927-c66b-4566-be0e-cfa55704d5f2,2023-07-13 08:19:17.363000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""579d4b1d-498e-4938-a087-33d4bb2f4ff0"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""efc2978b-0e17-408d-9ae8-1a8c9b69167a"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-13 07:14:59.554000 UTC"",
+    ""GiftCardId"": ""bd02882f-1b11-491e-89b7-d3e6b967a94c"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",ca5ec371-cc5f-4038-b7e4-a26e12456d81,2023-07-13T08:19:41.372350129Z,f9c5b57e-0b3b-49e7-bce8-f3e7c2596ab6,2023-07-13 08:19:41.392000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""858a37d3-1112-4622-b446-8a0a85816aba"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""fa277765-1adc-4952-97a8-e16a759d3a24"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-13 08:58:51.941000 UTC"",
+    ""GiftCardId"": ""827bfa95-b17b-4249-a1be-7f5b7906b611"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-13T08:59:02.05154675Z,55829858-0d8b-4659-ac5e-d00c5a0f0ef2,2023-07-13 08:59:02.071000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""7d0500b1-27ff-422c-88fa-ba10bdcf049c"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""4ed6c93b-61e5-4a5a-992d-6a5b2d87804a"",
+    ""PaymentId"": ""cd7d06e3-d781-4cb6-bd68-797a7b86cd53"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-07 08:02:11.670000 UTC"",
+    ""GiftCardId"": ""c2b8b731-3cfe-46eb-b9f8-d5a82e89a33a"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",4ed6c93b-61e5-4a5a-992d-6a5b2d87804a,2023-07-07T08:02:44.966763147Z,f8008905-38b5-4bd7-9b24-14f9cd00689d,2023-07-07 08:02:44.987000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""c760e9de-d0da-4d1d-9b59-42658e4841ce"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""eab7957c-57ea-42d3-8192-29205dba934e"",
+    ""PaymentId"": ""ea7e37b0-b9c2-455f-873a-7519c3163972"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""5000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""7ee153f7-a6f7-40d0-bb29-2ef262dc467b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""625"",
+    ""ProductName"": ""Test Pizza 2"",
+    ""OrderedAt"": ""2023-07-07 08:26:20.819000 UTC"",
+    ""GiftCardId"": ""36d0a1ca-da0a-4425-9659-993dfc421d35"",
+    ""CommissionPercentage"": ""22.5"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",eab7957c-57ea-42d3-8192-29205dba934e,2023-07-07T08:26:39.186198547Z,7fd1a391-8a80-4531-a309-ab355259d36f,2023-07-07 08:26:39.206000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""bd857b1d-00cf-4285-bc47-72f8efe25d5c"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""30fb0dba-2ff3-44ab-90de-bf6735512cfe"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-07 08:41:10.352000 UTC"",
+    ""GiftCardId"": ""a129fae8-f246-46ff-95df-a6c2dc8332a9"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-07T08:41:34.284183931Z,948da724-c19c-44e5-8315-ebe71df38e83,2023-07-07 08:41:34.304000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""7cf3df95-f627-4428-9fc7-d0b94bda1a98"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""450e71cb-fff7-44f5-adcf-630dbf0f4656"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""1000"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""30"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-07 09:10:20.055000 UTC"",
+    ""GiftCardId"": ""b0168683-53dd-40d2-8b54-5fb2fe06b5b2"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-07T09:11:23.401839808Z,45e8477f-cb18-4dd0-8744-e2682302c8cb,2023-07-07 09:11:23.422000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""7bcb6b42-9fb1-4fdf-aaee-fa4b210bb64a"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""663ad311-dddf-4d89-99e3-93cd5b42a24e"",
+    ""PaymentId"": """",
+    ""GiftCardTemplateId"": ""bd2de523-8c6f-49fd-8b7d-200b6952758f"",
+    ""GiftCardAmount"": ""1500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": """",
+    ""IssuerType"": """",
+    ""CashbackAmount"": ""0"",
+    ""ProductName"": """",
+    ""OrderedAt"": ""1970-01-01 00:00:00.000000 UTC"",
+    ""GiftCardId"": """",
+    ""CommissionPercentage"": ""0.0"",
+    ""PaymentStatus"": ""NOT_PAID"",
+    ""Source"": ""GAMIFICATION"",
+    ""PaymentTimeType"": """",
+    ""IsGiveaway"": ""false""
+  }
+}",663ad311-dddf-4d89-99e3-93cd5b42a24e,2023-07-07T08:57:12.054751454Z,33fc76c7-5995-4e7d-ad5f-f2293fb4cd41,2023-07-07 08:57:12.086000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""148948cb-3fe7-4e95-8343-eaf78e46dea7"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""b682adc4-b1a6-49ca-a575-d1ef57be393d"",
+    ""PaymentId"": ""929ad9ea-b329-4c11-bc47-3adb816431bc"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-05 13:51:26.794000 UTC"",
+    ""GiftCardId"": ""b2566661-09ac-4f64-84da-9bc54f6030aa"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PENDING"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_LATER"",
+    ""IsGiveaway"": ""false""
+  }
+}",b682adc4-b1a6-49ca-a575-d1ef57be393d,2023-07-05T13:51:37.602440662Z,72831083-5fc6-47dd-b44f-60abaf428e1d,2023-07-05 13:51:37.622000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""772c5a7b-c283-4f89-978d-703ca25ac8e4"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""b682adc4-b1a6-49ca-a575-d1ef57be393d"",
+    ""PaymentId"": ""91860b30-4e05-4cd7-be35-477a8cf77f3e"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""100"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""cf14e394-4bca-41b8-82f2-ef513e900388"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""3"",
+    ""ProductName"": ""Test Pizza Product"",
+    ""OrderedAt"": ""2023-07-05 13:55:02.574000 UTC"",
+    ""GiftCardId"": ""dfdb0d25-67bf-4e40-831d-a92b66513379"",
+    ""CommissionPercentage"": ""99.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""false""
+  }
+}",b682adc4-b1a6-49ca-a575-d1ef57be393d,2023-07-05T13:55:12.677107088Z,be1eabf2-88da-431b-a655-69e3714cf45d,2023-07-05 13:55:12.697000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""06b4f14d-8ada-42e9-aab5-37f648dd843b"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""e89dd696-a495-407a-bad1-5742d8d73697"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 07:24:57.708000 UTC"",
+    ""GiftCardId"": ""8c4f321b-bd8f-4260-9aaa-4ae9fa316602"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-14T07:25:08.190627473Z,d1e2b1ba-d175-4d8e-80b3-f0b8e0ccf3d5,2023-07-14 07:25:08.210000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""06b4f14d-8ada-42e9-aab5-37f648dd843b"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""e89dd696-a495-407a-bad1-5742d8d73697"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 07:24:57.708000 UTC"",
+    ""GiftCardId"": ""8c4f321b-bd8f-4260-9aaa-4ae9fa316602"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-14T07:26:17.163337834Z,2c6a4cd7-68ef-4dea-a9ad-75e91ec6d610,2023-07-14 07:26:17.197000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""06b4f14d-8ada-42e9-aab5-37f648dd843b"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""e89dd696-a495-407a-bad1-5742d8d73697"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 07:24:57.708000 UTC"",
+    ""GiftCardId"": ""8c4f321b-bd8f-4260-9aaa-4ae9fa316602"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",e260b3c3-7e40-4e58-a2bf-ae2a604d52c7,2023-07-14T07:27:28.05162719Z,e74a2d92-18ea-4331-859a-f9283dfb7b95,2023-07-14 07:27:28.072000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2676f7c2-9d0d-4dc9-b961-65f84aab2f0a"",
+    ""OrderStatus"": ""WAITING_TO_BE_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""de77a8ff-da61-449f-a660-439337cbc089"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 07:30:07.305000 UTC"",
+    ""GiftCardId"": ""a79b06f8-5686-4499-a3a1-28754f786e55"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",460b7ec2-e43a-4c4e-a624-e1152f4778fc,2023-07-14T07:30:20.411171009Z,66a3260c-480c-4b45-9e55-c338fc247ad9,2023-07-14 07:30:20.431000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2676f7c2-9d0d-4dc9-b961-65f84aab2f0a"",
+    ""OrderStatus"": ""ORDER_CLAIMED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""de77a8ff-da61-449f-a660-439337cbc089"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 07:30:07.305000 UTC"",
+    ""GiftCardId"": ""a79b06f8-5686-4499-a3a1-28754f786e55"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",00000000-0000-0000-0000-000000000000,2023-07-14T07:31:10.904709407Z,1a08fc02-1bea-493e-a9a6-0f2d1cb46de1,2023-07-14 07:31:10.925000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
+"{
+  ""OrderEvent"": {
+    ""OrderId"": ""2676f7c2-9d0d-4dc9-b961-65f84aab2f0a"",
+    ""OrderStatus"": ""DELIVERED"",
+    ""BuyerUserId"": ""460b7ec2-e43a-4c4e-a624-e1152f4778fc"",
+    ""PaymentId"": ""de77a8ff-da61-449f-a660-439337cbc089"",
+    ""GiftCardTemplateId"": """",
+    ""GiftCardAmount"": ""2500"",
+    ""DiscountAmount"": ""0"",
+    ""Currency"": ""EUR"",
+    ""ProductId"": ""15853dd7-13be-4bb5-9c25-03f86f7f316b"",
+    ""IssuerType"": ""INTERSOLVE"",
+    ""CashbackAmount"": ""75"",
+    ""ProductName"": ""Primark NL"",
+    ""OrderedAt"": ""2023-07-14 07:30:07.305000 UTC"",
+    ""GiftCardId"": ""a79b06f8-5686-4499-a3a1-28754f786e55"",
+    ""CommissionPercentage"": ""4.0"",
+    ""PaymentStatus"": ""PAID"",
+    ""Source"": """",
+    ""PaymentTimeType"": ""PAY_NOW"",
+    ""IsGiveaway"": ""true""
+  }
+}",6a791374-bc0d-4dfe-9954-5d6c3e5eee04,2023-07-14T07:32:01.19173147Z,7d57f300-dbe1-40d6-b8cd-18421a574b5f,2023-07-14 07:32:01.212000 UTC,WOOLSOCKS,"{
+  ""ReminderStateEvent"": null
+}","{
+  ""PaymentReminderEvent"": null
+}"
